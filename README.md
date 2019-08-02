@@ -1,11 +1,8 @@
 # Estimating-Poverty-Across-Borders
 
 Team members: 
-* Asra Yousuf  
 * Het Sheth
-* Rosy Gupta
 * Shantanu Mantri
-* Yu-Ho Hsieh
 
 ## Description
 
